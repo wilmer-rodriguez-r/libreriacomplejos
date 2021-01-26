@@ -37,9 +37,9 @@ Si desea modificar los casos de prueba, solo debe cambiar los valores en el cód
 * Pycharm - IDE
 * Git - Control de versiones
 * GitHub - Aloja las versiones de Git
-###Autores
+### Autores
 * Wilmer Rodríguez
-###Expresiones de Gratitud
+### Expresiones de Gratitud
 Gracias a todo aquel que use este proyecto y librería, espero que les sea de ayuda.
 
     
